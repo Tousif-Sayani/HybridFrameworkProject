@@ -1,0 +1,19 @@
+[INFO ] 2024-12-28 02:38:42.904 [main] QA_TOOLS - Browser has launched
+[INFO ] 2024-12-28 02:38:42.917 [main] QA_TOOLS - Deleting all cookies
+[INFO ] 2024-12-28 02:38:42.955 [main] QA_TOOLS - Browser window has maximized
+[INFO ] 2024-12-28 02:38:42.968 [main] QA_TOOLS - Implicity wait initialized
+[INFO ] 2024-12-28 02:38:42.977 [main] QA_TOOLS - Pageload has initialized
+[INFO ] 2024-12-28 02:38:46.972 [main] QA_TOOLS - Url has launched
+[DEBUG] 2024-12-28 02:38:46.972 [main] QA_TOOLS - Setup method initialized
+[DEBUG] 2024-12-28 02:38:47.038 [main] QA_TOOLS - scroll to element
+[DEBUG] 2024-12-28 02:38:47.210 [main] QA_TOOLS - clickOnElementsTab Method initilized
+[DEBUG] 2024-12-28 02:38:47.212 [main] QA_TOOLS - click on elementTab
+[DEBUG] 2024-12-28 02:38:47.270 [main] QA_TOOLS - Verify actual and expected
+[DEBUG] 2024-12-28 02:38:48.726 [main] QA_TOOLS - Click on submit button
+[INFO ] 2024-12-28 02:38:50.435 [main] QA_TOOLS - Browser has launched
+[INFO ] 2024-12-28 02:38:50.449 [main] QA_TOOLS - Deleting all cookies
+[INFO ] 2024-12-28 02:38:50.487 [main] QA_TOOLS - Browser window has maximized
+[INFO ] 2024-12-28 02:38:50.495 [main] QA_TOOLS - Implicity wait initialized
+[INFO ] 2024-12-28 02:38:50.510 [main] QA_TOOLS - Pageload has initialized
+[INFO ] 2024-12-28 02:38:55.788 [main] QA_TOOLS - Url has launched
+[DEBUG] 2024-12-28 02:38:55.982 [main] QA_TOOLS - clickOnElementsTab Method initilized
